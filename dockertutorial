@@ -1,0 +1,42 @@
+1. how you are using git,Jenkins and release management using jenkins
+
+2. how do you Merge in git
+
+3. how cherry-pick method is different from other merge method
+
+4. how do you resolve merge conflicts in git whether it is manually or automatic explain?
+
+5. How docker been used in your current project explain the process?
+
+6. what exact role playing by docker in your project
+
+7. how docker simplifies the devops cycle and how does it help you in your project
+
+8. why pom.xml is used exactly
+
+9. what is the real advantage of docker exactly explain ?
+
+10. your docker container has some storage requirements. how will you do that
+ 
+11.if your docker container goes down then there should be some kind of automation to check the health of docker containers continously?
+ whether it is automated or need to check manaully.
+
+12. can you explain me the complete release process of your project from start to end?
+
+13. where does release phase comes in SDLC?
+
+14. How can you confirm that this package is good for release to production.
+
+15. how will a pipeline know that functional testing or UAT testing has been completed
+
+16. how anisble is used in your project and what is your role
+
+17. How often you create a new servers for production
+
+18. when do you need docker. In what situation we should choose docker and in what situation we should not choose docker
+
+19. I am using docker. Deployment is successful, But url shows error page not found. how you check that
+
+20. How to store docker containers and in which place you store that.
+
+21. can you explain where docker fits exactly in your jenkins pipeline and why it is used there.
