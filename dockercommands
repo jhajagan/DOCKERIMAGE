@@ -42,10 +42,6 @@ Setup of Docker on Windows
 
 3 Once docker is installed we can use Power shell
   to run the docker commands
-
-===============================================================================
-Day 2
-===============================================================
 Setup of Docker on an Ubuntu Linux Machine
 =================================================
 1 Create an Ubuntu linux instances on AWS cloud
@@ -236,8 +232,6 @@ Working on docker volumes
    docker volume rm volume_name/volume_id
 
 ======================================================================
-Day 3
-===================================================================
 
 Virtualization
 ===================
@@ -285,8 +279,7 @@ Setup of Docker on Windows
   to run the docker commands
 
 ===============================================================================
-Day 2
-===============================================================
+
 Setup of Docker on an Ubuntu Linux Machine
 =================================================
 1 Create an Ubuntu linux instances on AWS cloud
@@ -477,8 +470,7 @@ Working on docker volumes
    docker volume rm volume_name/volume_id
 
 ======================================================================
-Day 3
-====================================================================
+
 UseCase 1
 ===============
 Create an nginx container in detached mode
@@ -568,8 +560,7 @@ Login as mysql root user and create few tables.
   select * from emp;
   select * from dept;
 ============================================================================
-Day 4
-============================================================================
+
 Creating a multi container architecture(microservices architecture)
 =====================================================================
 Various types of development and testing environments can be
@@ -641,8 +632,6 @@ one for QAserver and another for prodserver
 
 5 To access tomcat
   public_ip_dockerhost:6060 or 7070
-===============================================================================
-Day 5
 ===============================================================================
 
 
